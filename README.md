@@ -1,4 +1,4 @@
-# Gephi-Data-Cleaning: 
+# Gephi-Data-Cleaning
 ## Data to create the Gephi file for Columbia Center on Sustainable Investment/EDF Net-Zero Initiatives Network Graph
 This repo includes all the files that's used to create a nodes list and an edges list to feed in Gephi
 ###### Nodes List: 
